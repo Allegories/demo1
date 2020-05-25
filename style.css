@@ -1816,7 +1816,7 @@ ul.dropdown-cart li .item-right button {
 
 .side-text {
     float: right;
-    position: absolute;
+    position: relative;
     color: black;
     left: 30px;
     font-size: 12px;
@@ -1836,9 +1836,4 @@ ul.dropdown-cart li .item-right button {
     -webkit-animation-delay: 34s;
     animation-delay: .4s;
     animation-iteration-count: 1;
-}
-
-
-.inline-block {
-    display: inline-block;
 }
