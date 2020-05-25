@@ -1837,3 +1837,8 @@ ul.dropdown-cart li .item-right button {
     animation-delay: .4s;
     animation-iteration-count: 1;
 }
+
+
+.inline-block {
+    display: inline-block;
+}
