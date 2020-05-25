@@ -1816,7 +1816,7 @@ ul.dropdown-cart li .item-right button {
 
 .side-text {
     float: right;
-    position: relative;
+    position: absolute;
     color: black;
     left: 30px;
     font-size: 12px;
