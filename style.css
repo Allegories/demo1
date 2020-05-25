@@ -1802,21 +1802,16 @@ ul.dropdown-cart li .item-right button {
 
 
 /* 1. asset monitoring */
-
-/* global */
-
-@media (-webkit-min-device-pixel-ratio: 3),
-(min-resolution: 288dpi) {
-    .bg-sharp {}
-}
-
 .image-services {
-    text-align: center;
+    display: inline-block;
+
 }
 
 .text-services {
+
+
     margin-top: 10px;
-    color: black;
+    color: grey;
 }
 
 .side-text {
@@ -1841,14 +1836,4 @@ ul.dropdown-cart li .item-right button {
     -webkit-animation-delay: 34s;
     animation-delay: .4s;
     animation-iteration-count: 1;
-}
-
-
-
-/* local services per-pages */
-
-#panic-button-text {
-
-    text-align: left;
-    padding-top: 10px;
 }
